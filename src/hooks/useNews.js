@@ -28,7 +28,7 @@ const useNews = (category = 'technology') => {
               category: CATEGORY_MAP[category],
               lang: 'en',
               max: 20,
-              apikey: process.env.REACT_APP_GNEWS_API_KEY
+              apikey: 'efa030c4800bf339d7909455dc94f1d4'
             }
           }
         );
