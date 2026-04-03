@@ -6,7 +6,7 @@ A responsive React application that aggregates real-time news across multiple ca
 
 ## Live Demo
 
-[View Live App](https://your-vercel-url.vercel.app)
+[View Live App](https://devnews-mu.vercel.app/)
 
 ---
 
@@ -64,7 +64,7 @@ A responsive React application that aggregates real-time news across multiple ca
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/devnews.git
+git clone https://github.com/sunny-kumar12/devnews
 cd devnews
 ```
 
@@ -75,7 +75,7 @@ npm install
 
 3. Create a `.env` file in the root directory:
 
-REACT_APP_NEWS_API_KEY=e794d13c37f14907875adc444cad68f2
+REACT_APP_NEWS_API_KEY= Enter your api key
 
 4. Start the development server:
 ```bash
@@ -123,8 +123,6 @@ src/
 
 **Sunny Kumar**
 - GitHub: [sunny-kumar12](https://github.com/sunny-kumar12)
-- LinkedIn: [your-linkedin-url]
-- Email: snykr444@gmail.com
 
 ---
 
